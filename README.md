@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tilakakasapu
-- 👀 I’m interested in web development and app development 
-- 🌱 I’m currently learning web development 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Science and AI
+- 🌱 I’m currently exploring AI
+- 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me ...
 
 <!---
